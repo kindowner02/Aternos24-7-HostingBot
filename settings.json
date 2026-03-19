@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": false,
       "repeat": false,
-      "repeat-delay":120,
+      "repeat-delay":20,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to pvtttsidd4!",
+        "/register siddhant",
+        "/login siddhant",
         "I like to play Minecraft!"
       ]
     },
