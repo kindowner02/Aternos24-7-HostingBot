@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": false,
       "repeat-delay":20,
       "messages": [
         "/register siddhant",
         "/login siddhant",
-        "I like to play Minecraft!"
+        "War Smp is the best Smp"
       ]
     },
     "chat-log": true,
