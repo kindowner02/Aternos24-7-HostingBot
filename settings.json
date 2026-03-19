@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "The_ultimate_smp.exaroton.me",
-    "port": 28651,
+    "ip": "WarSmpS10.aternos.me
+",
+    "port": 48034,
     "version": "",
     "try-creative": false
   },
@@ -29,7 +30,7 @@
     "chat-messages": {
       "enabled": false,
       "repeat": false,
-      "repeat-delay": 120,
+      "repeat-delay": ,
       "messages": [
         "I'm a regular player",
         "Subscribe to pvtttsidd4!",
